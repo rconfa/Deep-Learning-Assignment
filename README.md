@@ -1,7 +1,7 @@
 <p float="left">
 
- <img src=" https://github.com/rconfa/Deep-Learning-Assignment/blob/main/DSLogo.png" width = "500"/>
- <img src=" https://github.com/rconfa/Deep-Learning-Assignment/blob/main/BicoccaLogo.png" width = "100" align="right"/>
+ <img src="https://github.com/rconfa/Deep-Learning-Assignment/blob/main/images/DSLogo.png" width = "500"/>
+ <img src="https://github.com/rconfa/Deep-Learning-Assignment/blob/main/images/BicoccaLogo.png" width = "100" align="right"/>
 </p>
 
 # Deep-Learning-Assignment
