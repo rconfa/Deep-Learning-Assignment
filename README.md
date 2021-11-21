@@ -23,6 +23,11 @@ The assignment consists in the prediction of grayscale images of handwritten let
 
 The Dataset consists of 14000 training labelled images and 8800 test images.
 
+## 3. Convolutional neural network (CNN) on MNIST
+[CNN Folder](Assignment3-CNN/)
+
+The assignment consists in the prediction of grayscale images of handwritten numbers 0-9 with a convolutional neural network (CNN). The dataset is the classical MNIST dataset. The only requirment is to implement a CNN with up to 6000 trainable parameters.  
+
 ## About me
 &#8860; &nbsp; **Riccardo Confalonieri**
 
