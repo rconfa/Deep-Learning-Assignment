@@ -28,6 +28,12 @@ The Dataset consists of 14000 training labelled images and 8800 test images.
 
 The assignment consists in the prediction of grayscale images of handwritten numbers 0-9 with a convolutional neural network (CNN). The dataset is the classical MNIST dataset. The only requirment is to implement a CNN with up to 6000 trainable parameters.  
 
+## 3. Transfer Learning
+[Transfer Learning Folder](Assignment4-TransferLearning/)
+
+The task of this assignment is Transfer Learning using a CNN pre-trained on IMAGENET, the suggested architecture is the VGG16.
+The CNN should be used as fixed feature extractor on a new task of your choice containing a number of classes in the range from 2 to 10. It is also required to consider three different layers as cutting point and analyze the performace for each choice 
+
 ## About me
 &#8860; &nbsp; **Riccardo Confalonieri**
 
